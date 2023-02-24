@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TempConvVBClient/1.0.0": {
+        "dependencies": {
+          "TempConvComp": "1.0.0.0"
+        },
+        "runtime": {
+          "TempConvVBClient.dll": {}
+        }
+      },
+      "TempConvComp/1.0.0.0": {
+        "runtime": {
+          "TempConvComp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TempConvVBClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TempConvComp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

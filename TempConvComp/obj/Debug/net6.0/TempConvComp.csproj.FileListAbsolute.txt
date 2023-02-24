@@ -1,0 +1,12 @@
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\bin\Debug\net6.0\TempConvComp.deps.json
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\bin\Debug\net6.0\TempConvComp.dll
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\bin\Debug\net6.0\TempConvComp.pdb
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.csproj.AssemblyReference.cache
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.dll
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\refint\TempConvComp.dll
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\TempConvComp.pdb
+C:\Users\Bryan\Desktop\Assignment\TempConvComp\obj\Debug\net6.0\ref\TempConvComp.dll
